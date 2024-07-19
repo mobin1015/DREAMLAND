@@ -8,6 +8,7 @@
 
 
 
+
 #### 구성원
 + 박모빈 [https://github.com/mobin1015]
 + 이소이 [https://github.com/soyi9601]
@@ -15,6 +16,7 @@
 + 고은정 [https://github.com/2unjung94]
 + 강산들 [https://github.com/san-deul]
 + 민수지 [https://github.com/qqsuzy]
+
 
 
 
@@ -35,6 +37,7 @@
 + **버전관리**: Git, GitHub
 
 + **협업**: Slack
+
 
 
 
@@ -104,6 +107,7 @@
   + 반려자 및 반려 사유 확인
    ![반려자와 반려사유 확인](https://github.com/user-attachments/assets/ed129a68-8bed-41f5-b515-ac45c8a0697a)
   반려된 문서는 반려문서 페이지를 통해 반려자와 반려사유를 확인할 수 있습니다.
+
 
 
 
