@@ -63,19 +63,17 @@
 
 
 
-<br/> <br/> 
-
+<br/><br/> 
 
   + 문서양식 변경
    ![셀렉트바](https://github.com/user-attachments/assets/ed1b95c4-c1bd-4f0d-8893-aea4d47cc7a9)
    셀렉트바를 이용해 휴가신청서와 지출품의서 중 원하는 양식을 선택할 수 있습니다.
 
 
-<br/> 
-<br/> 
+<br/> <br/> 
 
  
-  + 결재라인지정 및 결재라인직급제한
+  + 결재라인지정 
    ![사원 선택](https://github.com/user-attachments/assets/87eb6a88-da97-432c-98f1-a18e61cd3b75)
    JSTree를 이용하여 조직도를 열고 원하는 사원을 결재자로 지정할 수 있습니다.
 
@@ -83,9 +81,9 @@
 
 
 
-    
-   ![결재라인 위계](https://github.com/user-attachments/assets/49f75fd9-370c-49ce-862c-2af7f43672d9)
-   이전 결재자보다 더 직급이 높은 사원만 지정할 수 있도록 자바스크립트로 제한을 걸었습니다.
+  + 결재라인직급제한 
+    ![결재라인 위계](https://github.com/user-attachments/assets/49f75fd9-370c-49ce-862c-2af7f43672d9)
+    이전 결재자보다 더 직급이 높은 사원만 지정할 수 있도록 자바스크립트로 제한을 걸었습니다.
 
 
 
@@ -125,8 +123,7 @@
 
 
 
-<br/> 
-<br/> 
+<br/> <br/> 
 
 
   + 철회하기
