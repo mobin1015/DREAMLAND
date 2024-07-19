@@ -9,6 +9,8 @@
 
 
 
+
+
 #### 구성원
 + 박모빈 [https://github.com/mobin1015]
 + 이소이 [https://github.com/soyi9601]
@@ -16,6 +18,8 @@
 + 고은정 [https://github.com/2unjung94]
 + 강산들 [https://github.com/san-deul]
 + 민수지 [https://github.com/qqsuzy]
+
+
 
 
 
@@ -42,6 +46,8 @@
 
 
 
+
+
 #### 담당 업무 및 역할
 
 + **팀장**: 프로젝트 기본아키텍처 구성하여 GitHub에 배포 및 GitHub main 브런치 관리, 개발 일정관리
@@ -57,9 +63,15 @@
 
 
 
+
+
+
   + 문서양식 변경
    ![셀렉트바](https://github.com/user-attachments/assets/ed1b95c4-c1bd-4f0d-8893-aea4d47cc7a9)
   셀렉트바를 이용해 휴가신청서와 지출품의서 중 원하는 양식을 선택할 수 있습니다.
+
+
+
 
 
  
@@ -68,15 +80,24 @@
   JSTree를 이용하여 조직도를 열고 원하는 사원을 결재자로 지정할 수 있습니다.
 
 
+
+
+
     
    ![결재라인 위계](https://github.com/user-attachments/assets/49f75fd9-370c-49ce-862c-2af7f43672d9)
   이전 결재자보다 더 직급이 높은 사원만 지정할 수 있도록 자바스크립트로 제한을 걸었습니다.
 
-  
+
+
+
+
  
   + 참조자 지정
   ![참조하기](https://github.com/user-attachments/assets/2224f9ac-fad2-4eea-b6e9-98c4e47b3d3a)
   참조자로 지정된 사원은 참조문서함에서 해당 문서의 진행 상태를 확인할 수 있습니다.
+
+
+
 
 
 
@@ -86,9 +107,16 @@
 
 
 
+
+
+
   + 승인하기
    ![결재하기](https://github.com/user-attachments/assets/1827edc8-be57-4f71-80b1-e1d6910308f6)
   승인한 문서는 처리대기 페이지에서 처리 완료페이지로 이동합니다.
+
+
+
+
 
 
 
@@ -98,9 +126,15 @@
 
 
 
+
+
+
+
   + 철회하기
     ![철회하기](https://github.com/user-attachments/assets/48a4d3c7-1e7e-4fc9-92f4-94cd2550a01a)
   상신한 문서를 철회할 수 있고 철회한 문서는 임시저장함으로 이동합니다.
+
+
 
 
 
